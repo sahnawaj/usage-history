@@ -10,7 +10,7 @@
 			"billDate" : "2019-07-06T10:00:00Z",
 			"billId" : "12345678"
 		},
-    {
+    		{
 			"totalCharge" : 43.00,
 			"dollarValue" : "43",
 			"centValue" : "00",
@@ -18,7 +18,7 @@
 			"billDate" : "2019-08-06T10:00:00Z",
 			"billId" : "13345678"
 		},
-    {
+    		{
 			"totalCharge" : 43.00,
 			"dollarValue" : "43",
 			"centValue" : "00",
@@ -26,7 +26,7 @@
 			"billDate" : "2019-09-06T10:00:00Z",
 			"billId" : "13345678"
 		},
-    {
+    		{
 			"totalCharge" : 43.00,
 			"dollarValue" : "43",
 			"centValue" : "00",
@@ -34,7 +34,7 @@
 			"billDate" : "2019-10-06T10:00:00Z",
 			"billId" : "13345678"
 		},
-    {
+    		{
 			"totalCharge" : 43.00,
 			"dollarValue" : "43",
 			"centValue" : "00",
@@ -42,7 +42,7 @@
 			"billDate" : "2019-11-06T10:00:00Z",
 			"billId" : "13345678"
 		},
-    {
+    		{
 			"totalCharge" : 43.00,
 			"dollarValue" : "43",
 			"centValue" : "00",
