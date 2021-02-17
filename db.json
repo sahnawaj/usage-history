@@ -1,6 +1,6 @@
 {
-	"totalPage" : "1"
-	"nextPageName" : "usage1.json"
+	"totalPage" : "1",
+	"nextPageName" : "usage1.json",
 	"usageData" : [
 		{
 			"totalCharge" : 43.00,
